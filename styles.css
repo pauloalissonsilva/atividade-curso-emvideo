@@ -31,7 +31,7 @@ p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     text-align: center;
-    border: ridge currentColor 2px;
+    border: ridge currentColor 2px black;
 }
 text {
     border-color: black 10px;
