@@ -1,6 +1,10 @@
 @charset "utf-8";
 
+main{
+    border: 2px crimson;
+}
 div {
+    border: 2px black;
     border-style: outset;
     background-color: rgb(180, 235, 235);
 }
@@ -31,7 +35,8 @@ p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     text-align: center;
-    border: ridge currentColor 2px black;
+    border: ridge currentColor 2px black
+    
 }
 text {
     border-color: black 10px;
